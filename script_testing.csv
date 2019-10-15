@@ -1,0 +1,41 @@
+Object ID,Transaction Type,Description,Long description,Priority,Source,Assigned Group (Team),Changed On,Category L1
+ID0000000,ABCD,Download Option is locked,"
+Dear Team,
+
+This request with regard to the user with reference 11111 - Download Option is locked issue.
+
+Regards.
+",Medium,website,TEAM_ASSIGNED.ALL.ABCD,2000-00-01 00:00:58.000,FAILURE
+ID0000000,ABCD,Download Option is locked,"
+Dear Team,
+
+This request with regard to the user with reference 11111 - Download Option is locked issue.
+
+Regards.
+",Medium,website,TEAM.ALL.ABCD,2000-00-01 00:00:58.000,FAILURE
+ID0000000,ABCD,FAILURE,"
+Dear Team,
+
+This request with regard to the user with reference 11111 - Download Option is locked issue.
+
+Regards.
+",Medium,website,TEAM_ASSIGNED.ALL.ABCD,2000-00-01 00:00:58.000,FAILURE
+ID0000000,ABCD,Monitor error,"Transaction with issue:
+Dear Team,
+
+This request with regard to the user with reference 11111 - Download Option is locked issue.
+
+Regards.
+",Medium,website,TEAM_ASSIGNED.ALL.ABCD,2000-00-01 00:00:58.000,FAILURE
+ID0000000,ABCD,getting some error ,"
+Service Name:	AAAAA
+Comments: la division
+Merci
+Cordialement
+Cordialement,
+",Medium,website,TEAM_ASSIGNED.ALL.ABCD,2000-00-01 00:00:58.000,FAILURE
+ID0000000,ABCD,getting some error ,"Service Name:	AAAAA
+Comments: la division
+Merci
+Cordialement
+Cordialement,",Medium,website,TEAM_ASSIGNED.ALL.ABCD,2000-00-01 00:00:58.000,FAILURE
